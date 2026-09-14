@@ -1,2 +1,2 @@
 # randomrepocs320
-Repository for git setup, Dhruv ROhilla
+Repository for git setup, Dhruv Rohilla
